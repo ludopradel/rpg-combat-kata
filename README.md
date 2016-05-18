@@ -34,7 +34,7 @@ The player has an attack range.
    - If he is a ranged fighter, his range will be 20 meters.
    - When trying to deal damage, the player must be in range.
 
-## Retrospective (10min)
+## Retrospective
 
 - Are you keeping up with the requirements ?
 - Do you feel good about your design, is it scalable and easily adapted to the new requirements that will be introduced in the last iterations ? 
