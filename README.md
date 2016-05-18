@@ -1,7 +1,10 @@
 # RPG Combat Kata
 
+## Domain
 
-## Introduction
+For the scope of this kata, the player won't be running around and doing stuff. The features implemented in each iteration will be limited to the framework that the game may use in the future.
+
+It is centered on the characters combat skills which are basically damaging and healing.
 
 ## Iteration 1 
 
@@ -60,5 +63,13 @@ Finally, the player can damage other things that are not characters (props). Thi
  - What problems did you encounter ? 
  - What have you learned ? 
  - Debate on the different ways to possibly solve the kata!
+
+
+# Note for Facilitators : 
+
+ - You may fix a time limit for each iteration as a constraint.
+ - 10min preparation for finding a pair, choosing a langage & setting up the environment.
+ - 10min retrospective before iteration 4.
+ - Open the debate on final retrospective on the diffrent ways to possibly solve the kata.
 
 *Source http://www.slideshare.net/DanielOjedaLoisel/rpg-combat-kata*
